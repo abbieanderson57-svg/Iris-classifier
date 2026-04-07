@@ -1,0 +1,7 @@
+outputs/
+iris-classifier/
+venv/
+*.pyc
+__pycache__/
+*.pkl
+.DS_Store
